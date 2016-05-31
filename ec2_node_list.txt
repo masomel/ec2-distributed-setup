@@ -1,0 +1,10 @@
+us-east-1, VA
+us-west-2, OR
+us-west-1, CA
+eu-west-1, IRE
+eu-central-1, GER
+ap-southeast-1, SING
+ap-northeast-1, JPN
+ap-southeast-2, AUS
+ap-northeast-2, KOR
+sa-east-1, BRA
